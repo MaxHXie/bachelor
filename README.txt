@@ -1,3 +1,8 @@
+######### PURPOSE OF PROGRAM #########
+This program is built in order to find and flag anomalies in large, unlabelled data sets using unsupervised deep learning. The algorithm works for both categorical and continuous data, and its performance grows as the size of the data set gets bigger. 
+
+Finding and flagging anomalies in large data sets that humans normally would not find can be of great benefit to companies by reducing risk and increasing overall data quality .
+
 ######### HOW TO RUN THE PROGRAM #########
   - Here are all requirements for running the program. (Also stated below):
     a. Have the files "main.py", "autoencoders.py" and "functions.py" in the same folder.
